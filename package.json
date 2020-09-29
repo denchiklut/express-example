@@ -1,0 +1,15 @@
+{
+  "name": "express-exaple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "run": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "denchikliut ollylut@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
